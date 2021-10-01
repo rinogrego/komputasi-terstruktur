@@ -3,7 +3,7 @@
 
 Dokumentasi Koding Pembelajaran Mata Kuliah Komputasi Terstruktur (Struktur Data & SQL)
 
-Materi mencakup _struktur data_ dan _relational database_
+Materi mencakup _Data Structures_ dan _Relational Database_
 
 Kode merupakan hasil dari gabungan kode pekerjaan mandiri dan kode yang dapat ditemukan di internet (mainly geeksforgeeks)
 
